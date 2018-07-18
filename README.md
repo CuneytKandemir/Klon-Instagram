@@ -1,2 +1,1 @@
-# Klon-Instagram
-Android studio da tasarlanıp kodlanmış sosyal platform projesi 
+Bitirme Projesi için yazılmış bir instagram klonudur. Veritabanı olarak firebase kullanılmıştır. Platform Androiddir.
